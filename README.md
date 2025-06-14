@@ -1,9 +1,27 @@
-## Hi there👋 I'm Bharani P
+# Hi there👋 I'm Bharani P
 
---
 ## About Me
 
 I am an **engineering graduate** and undergone training in **Java full stack web development**
+
+---
+
+## Skills 
+
+### Backend
+- Java
+- Spring Boot
+- Rest API
+- DSA
+
+### Database
+- SQL
+- MySQL
+
+### Frontend 
+- HTML/CSS
+- Bootstrap, Tailwind CSS
+- Javascript, React JS
 
 <!--
 **Bharani105/Bharani105** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
