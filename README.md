@@ -24,6 +24,7 @@ and **Web Technologies**. I have experience in both **frontend** and **backend d
 - HTML, CSS
 - Bootstrap, Tailwind CSS
 - Javascript
+- React Js
   
 ### Tools & Other Technologies
 - **IDE & Editor**: Eclipse, VS Code
